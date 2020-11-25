@@ -1,0 +1,13 @@
+{
+    "logins" : [
+        {
+            "username": "aquadry",
+            "password": "pi314"
+        },
+
+        {
+            "username": "nquadry",
+            "password": "pi314"
+        }
+    ]
+}
